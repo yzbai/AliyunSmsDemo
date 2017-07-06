@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Aliyun.Acs.Core\Aliyun.Acs.Core.csproj" />
     <ProjectReference Include="..\Aliyun.Acs.Sms\Aliyun.Acs.Sms.csproj" />
   </ItemGroup>
 
