@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>Copyright ©  2015 Aliyun Corporation</Copyright>
+    <Product>aliyun-net-sdk-core</Product>
+    <Company>Aliyun Corporation</Company>
+    <Description>.NET Aliyun Open API SDK.</Description>
+    <PackageId>.NET Aliyun Open API SDK.</PackageId>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    
+  </ItemGroup>
+
+</Project>

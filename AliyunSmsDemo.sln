@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26621.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliyunSmsDemo", "AliyunSmsDemo\AliyunSmsDemo.csproj", "{377D96B1-C115-4A54-8AA9-98F01A34B884}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aliyun.Acs.Core", "Aliyun.Acs.Core\Aliyun.Acs.Core.csproj", "{144F6F29-E568-4ACD-A552-AA94B0B62FBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aliyun.Acs.Sms", "Aliyun.Acs.Sms\Aliyun.Acs.Sms.csproj", "{111FCC6F-E027-4C43-97F9-F71361F75328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{377D96B1-C115-4A54-8AA9-98F01A34B884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377D96B1-C115-4A54-8AA9-98F01A34B884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377D96B1-C115-4A54-8AA9-98F01A34B884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144F6F29-E568-4ACD-A552-AA94B0B62FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144F6F29-E568-4ACD-A552-AA94B0B62FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144F6F29-E568-4ACD-A552-AA94B0B62FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144F6F29-E568-4ACD-A552-AA94B0B62FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111FCC6F-E027-4C43-97F9-F71361F75328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111FCC6F-E027-4C43-97F9-F71361F75328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111FCC6F-E027-4C43-97F9-F71361F75328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111FCC6F-E027-4C43-97F9-F71361F75328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
